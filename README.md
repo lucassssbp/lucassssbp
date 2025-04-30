@@ -16,6 +16,6 @@ Estudiante de Informática y desarrollador en formación. He participado en vari
 **Otros:**
 - Oracle VirtualBox
 - VMware Workstation Pro
-- Vegas PRO
+- Vegas Pro
 - Adobe Premiere Pro
 - Adobe Photoshop Pro
