@@ -1,7 +1,9 @@
 # Lucas 👾
 
 # Acerca de Mí 👤
-Estudiante de Informática y desarrollador en formación. He participado en varios proyectos de software y bots para redes sociales, siempre buscando crecer profesionalmente en cada proyecto que realizo.
+Estudiante de Informática y desarrollador en formación.
+He participado en diversos proyectos de software y bots para redes sociales. Siempre estoy en búsqueda de nuevas tecnologías y oportunidades para seguir aprendiendo y creciendo profesionalmente. Me esfuerzo por alcanzar la excelencia en cada proyecto que desarrollo.
+No dudes en contactarme si necesitas ayuda o colaboración. :)
 
 # Habilidades 🚀 
 
